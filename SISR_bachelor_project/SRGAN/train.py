@@ -13,7 +13,7 @@ split_ratio = 0.8
 epochs = 1000
 batch_size = 1
 save_model_dir = './model/'
-input_dir = './input/'
+input_dir = './data/'
 output_dir = './output/'
 
 # Combined network

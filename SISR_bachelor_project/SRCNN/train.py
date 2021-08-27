@@ -1,6 +1,5 @@
 from model import SRCNN
 from lib import *
-import argparse
 import sys
 
 image_size= 33

@@ -2,7 +2,6 @@ import os
 from model import SRCNN
 from lib import *
 import cv2
-import argparse
 import numpy as np
 import matplotlib.pyplot as plt
 import time

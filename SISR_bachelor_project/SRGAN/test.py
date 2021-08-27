@@ -7,7 +7,6 @@ import numpy as np
 from numpy import array
 import os
 from keras.models import load_model
-import argparse
 from lib import *
 from model import *
 
